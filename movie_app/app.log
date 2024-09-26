@@ -1,0 +1,4 @@
+2024-09-26 11:36:04,304 [INFO] Starting Flask application
+2024-09-26 11:36:04,310 [WARNING]  * Debugger is active!
+2024-09-26 11:36:04,311 [INFO]  * Debugger PIN: 500-045-450
+2024-09-26 11:36:44,041 [INFO]  * Detected change in '/workspaces/pmovieapp/movie_app/app.py', reloading
